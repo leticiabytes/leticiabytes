@@ -1,6 +1,6 @@
 # Letícia Vieira
 
-Software Engineer @ Mimoo
+Software Engineer
 
 - 💻 Focused on web and mobile development.
 
